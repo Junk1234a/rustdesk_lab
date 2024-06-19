@@ -872,10 +872,10 @@ void androidChannelInit() {
 }
 
 void showScamWarning(BuildContext context, ServerModel serverModel) {
-  showDialog(
-    context: context,
-    builder: (BuildContext context) {
-      return ScamWarningDialog(serverModel: serverModel);
-    },
-  );
+//  showDialog(
+//    context: context,
+//    builder: (BuildContext context) {
+//      return ScamWarningDialog(serverModel: serverModel);
+//    },
+//  );
 }

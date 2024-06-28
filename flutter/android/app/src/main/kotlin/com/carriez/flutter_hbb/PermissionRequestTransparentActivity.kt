@@ -1,4 +1,4 @@
-package com.carriez.flutter_cdev_hbb
+package com.carriez.flutter_cprod_hbb
 
 import android.app.Activity
 import android.content.Intent

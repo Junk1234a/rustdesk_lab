@@ -1,4 +1,4 @@
-package com.carriez.flutter_cdev_hbb
+package com.carriez.flutter_cprd_hbb
 
 import android.Manifest.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
 import android.Manifest.permission.SYSTEM_ALERT_WINDOW
